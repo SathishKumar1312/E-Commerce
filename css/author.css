@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-image: linear-gradient(to right,rgb(4, 99, 130),white);
+}
+.con {
+    
+}
+.container {
+    height: 70vh;
+    width: 100vw;
+    position: relative;
+    margin-top: 14%;
+    left: 43%;
+}
+
+h1 {
+    color: crimson;
+}
+h2 {
+    margin-left:50px;
+}
